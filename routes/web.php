@@ -14,6 +14,7 @@
 Route::get('/', 'PageController@home');
 Route::get('/about', 'PageController@about');
 Route::get('/login', 'PageController@login');
+Route::get('/portfolio', 'PageController@portfolio');
 
 
 

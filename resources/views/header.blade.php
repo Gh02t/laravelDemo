@@ -12,5 +12,6 @@
     <title>Laravel - prove mie</title>
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
+    <link href="public/js/main.css" rel="stylesheet" type="text/css">
     @yield('header')
 </head>

@@ -18,6 +18,10 @@ class PageController extends Controller
         /*about page*/
         return view('about');
     }
+    public function portfolio(){
+        /*about page*/
+        return view('portfolio');
+    }
     public function login(){
         /*about page*/
         return view('login');
